@@ -1,0 +1,24 @@
+{
+  "name": "vehicle-check-website",
+  "version": "1.0.0",
+  "description": "DVLA Vehicle Check Website with Purple Neon Theme",
+  "main": "index.html",
+  "scripts": {
+    "dev": "netlify dev",
+    "build": "echo 'Static site - no build needed'",
+    "deploy": "netlify deploy --prod"
+  },
+  "keywords": [
+    "dvla",
+    "vehicle",
+    "check",
+    "car",
+    "uk",
+    "registration"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "netlify-cli": "^17.0.0"
+  }
+}
